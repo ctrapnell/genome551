@@ -44,9 +44,10 @@ NOTE:  We will be coming back to the kinetic analyses in Section C at a later c
 ### Pelham Cell 30:517-528 (1982) [\[pdf\]](pdfs/pelham.pdf)
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
 
-1. What does the experiment illustrated in Fig. 2 establish?
-2. Describe the experiment illustrated in Fig.4 and its main conclusion
+1. What does the experiment illustrated in Figure 2 establish?
+2. Describe the experiment illustrated in Figure 4 and its main conclusion
 3. Does HSE act as a thermostat? 
+
 ------
 
 ### Karin et al. Nature  308:513-519 (1984) [\[pdf\]](pdfs/karin.pdf)
@@ -62,7 +63,7 @@ _This paper describes the first large-scale empirical characterization of human 
 
 1. What are the CAAT, CACCC, and TATA boxes?  What proportion of human genes have these so-called "canonical" features?
 2. Describe the enhancer-dependent transcription assay used by Myers et al to ascertain the effect of promoter point mutants.
-3. Describe the assay used by Myers et al in Fig. 2
+3. Describe the assay used by Myers et al in Figure 2
 ------
 
 ## Class 3: Distal regulatory elements, Part I
@@ -71,7 +72,7 @@ _This paper describes the first large-scale empirical characterization of human 
 _Discovery of transcritptional enhancers encoded in viral genomes._
 
 1. What is the experimental schema and why did they devise it?
-2. How are the 5’ transcript ends determined in Fig. 2? How did they estimate the number of transcripts per cell?
+2. How are the 5’ transcript ends determined in Figure 2? How did they estimate the number of transcripts per cell?
 3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
 4. How well did they localize the sequences responsible for enhancer activity?
 ------
@@ -80,7 +81,7 @@ _Discovery of transcritptional enhancers encoded in viral genomes._
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
 
 1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria?
-2. Describe the experiments summarized in Fig. 2 and Table 2. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
+2. Describe the experiments summarized in Figure 2 and Table 2. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
 3. What happens to this enhancer during B-cell maturation?
 ------
 
@@ -96,7 +97,7 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 ### Thanos and Maniatis  Cell  83:1091-100 (1995) [\[pdf\]](pdfs/thanos_maniatis.pdf)
 _One of the first systematic descriptions of the fine structure of enhancer._
 
-1. Describe the experiments in Figs. 3 and 4 and how these led to the proposed “enhanceosome” structure.
+1. Describe the experiments in Figsure 3 and 4 and how these led to the proposed “enhanceosome” structure.
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 ------
@@ -106,15 +107,15 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
 
-1. Describe the experimental strategy used by Treisman and Maniatis. Compare results from Fig. 2 and 3. What does this comparison say about the magnitude of the enhancer effect in nuclear run-on vs. steady state RNA assays?
-2. Describe the results of Fig. 4. How do they relate conceptually to the findings of Gariglio et al.?
+1. Describe the experimental strategy used by Treisman and Maniatis. Compare results from Figure 2 and 3. What does this comparison say about the magnitude of the enhancer effect in nuclear run-on vs. steady state RNA assays?
+2. Describe the results of Figure 4. How do they relate conceptually to the findings of Gariglio et al.?
 3. How do the authors rule-out non-specific initiation?
 ------
 
 ### Weintraub Proc. Natl. Acad. Sci. USA (1988) [\[pdf\]](pdfs/weintraub_1988.pdf)
 _A seminal paper providing an elegant unifying model for the phenomenology of cis-acting transcriptional enhancers._
 
-1. Diagram the experimental strategy of Weintraub. Summarize the qualitative results from Fig. 2 and the related quantitative data reported in the text.
+1. Diagram the experimental strategy of Weintraub. Summarize the qualitative results from Figure 2 and the related quantitative data reported in the text.
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 ------
@@ -157,7 +158,7 @@ Questions TBD
 ### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
 _Role of insulators in genomic imprinting._
 
-1. Describe the phenomenon of genomic imprinting and its manifestation with respect to Igf2
+1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
 2. How do the authors show that CTCF is specifically responsible for the effect?
 
 
