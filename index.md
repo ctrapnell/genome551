@@ -1,10 +1,4 @@
 
----
-title: Genome 551
-header:
-  image: /assets/images/image-filename.jpg
----
-
 ## Class 1: Basic principles
 
 ### Jacob and Monod, J. Mol. Biol. 3: 318-356 (1961) [\[pdf\]](pdfs/jacob_monod.pdf)
