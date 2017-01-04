@@ -70,6 +70,18 @@ _This paper describes the first large-scale empirical characterization of human 
 
 ## Class 3: Distal regulatory elements, Part I
 
+Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
+
+_This paper was the first to describe the chromatin architecture of mammalian genes in relation to their cis-regulatory elements.  The paper was also the first to show that regulatory sequences undergo chromatin structural changes in different cell types._
+
+1. Diagram the experiment
+2. Contrast the DNaseI sensitivity assays employed in this paper vs. those of Weintraub and Groudine (Science, 1976).  Describe the different levels of DNaseI sensitivity the authors report and their interpretations for the structure of gene domains.
+3. How do the reported assays depend on the selection of restriction fragments and probes?
+4. Describe the experiment and results of Figure 5
+5. What significance to the authors assign to their results, and what predictions do they make?
+
+------
+
 ### Banerji et al. Cell 27:299−308 (1981) [\[pdf\]](pdfs/banerji_1981.pdf)
 _Discovery of transcritptional enhancers encoded in viral genomes._
 
