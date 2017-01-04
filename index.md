@@ -70,7 +70,7 @@ _This paper describes the first large-scale empirical characterization of human 
 
 ## Class 3: Distal regulatory elements, Part I
 
-Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
+### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
 
 _This paper was the first to describe the chromatin architecture of mammalian genes in relation to their cis-regulatory elements.  The paper was also the first to show that regulatory sequences undergo chromatin structural changes in different cell types._
 
