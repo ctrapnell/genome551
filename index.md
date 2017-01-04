@@ -5,6 +5,9 @@
 
 _A seminal work of innovative synthesis, providing the intellectual foundation for the study of gene regulation._  
 
+[pdf](pdfs/jacob_monod.pdf)
+
+
 This work has played such a large role in the conceptualization of gene regulatory phenomena extending over many decades that we will be stepping through the key points of the paper sequentially.  The high-level themes/questions to consider are:
 
 1. What is the relative importance assigned to positive (activator) vs. negative (repressor) regulation?
@@ -14,7 +17,10 @@ This work has played such a large role in the conceptualization of gene regulato
 ------
 
 ### Ptashne, Nature 214:232-5 (1967)
+
 _This paper established that regulatory protein entities such as those discussed by Jacob and Monod were in fact DNA binding proteins._
+
+[pdf](pdfs/ptashne_nature_1967.pdf)
 
 1. Diagram the experiment
 2. What are the experimental conditions and how could alterations in those conditions have affected the results?
@@ -24,6 +30,8 @@ _This paper established that regulatory protein entities such as those discussed
 ### Weintraub and Groudine, Science 193:848-56 (1976)
 
 _This seminal paper provided the first evidence for the role of chromatin structure in gene expression._
+
+[pdf](pdfs/weintraub_groudine.pdf)
 
 1. How do the authors introduce DNaseI into the nucleus? 
 2. Describe the DNase I sensitivity assay as employed by the authors.  Could this be applied to any gene?
