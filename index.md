@@ -1,12 +1,9 @@
 
 ## Class 1
 
-### Jacob and Monod, J. Mol. Biol. 3: 318-356 (1961)
+### Jacob and Monod, J. Mol. Biol. 3: 318-356 (1961) [\[pdf\]](pdfs/jacob_monod.pdf)
 
 _A seminal work of innovative synthesis, providing the intellectual foundation for the study of gene regulation._  
-
-[pdf](pdfs/jacob_monod.pdf)
-
 
 This work has played such a large role in the conceptualization of gene regulatory phenomena extending over many decades that we will be stepping through the key points of the paper sequentially.  The high-level themes/questions to consider are:
 
@@ -16,22 +13,18 @@ This work has played such a large role in the conceptualization of gene regulato
 
 ------
 
-### Ptashne, Nature 214:232-5 (1967)
+### Ptashne, Nature 214:232-5 (1967) [\[pdf\]](pdfs/ptashne_nature_1967.pdf)
 
 _This paper established that regulatory protein entities such as those discussed by Jacob and Monod were in fact DNA binding proteins._
-
-[pdf](pdfs/ptashne_nature_1967.pdf)
 
 1. Diagram the experiment
 2. What are the experimental conditions and how could alterations in those conditions have affected the results?
 
 ------ 
 
-### Weintraub and Groudine, Science 193:848-56 (1976)
+### Weintraub and Groudine, Science 193:848-56 (1976) [\[pdf\]](pdfs/weintraub_groudine.pdf)
 
 _This seminal paper provided the first evidence for the role of chromatin structure in gene expression._
-
-[pdf](pdfs/weintraub_groudine.pdf)
 
 1. How do the authors introduce DNaseI into the nucleus? 
 2. Describe the DNase I sensitivity assay as employed by the authors.  Could this be applied to any gene?
