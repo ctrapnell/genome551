@@ -45,7 +45,7 @@ NOTE:  We will be coming back to the kinetic analyses in Section C at a later c
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
 
 1. What does the experiment illustrated in Figure 2 establish?
-2. Describe the experiment illustrated in Figure 4 and its main conclusion
+2. Describe the experiment illustrated in Figure 4 and its main conclusion.
 3. Does HSE act as a thermostat? 
 
 ------
