@@ -83,7 +83,7 @@ _This paper was the first to describe the chromatin architecture of mammalian ge
 ------
 
 ### Banerji et al. Cell 27:299−308 (1981) [\[pdf\]](pdfs/banerji_1981.pdf)
-_Discovery of transcritptional enhancers encoded in viral genomes._
+_Discovery of transcriptional enhancers encoded in viral genomes._
 
 1. What is the experimental schema and why did they devise it?
 2. How are the 5’ transcript ends determined in Figure 2? How did they estimate the number of transcripts per cell?
@@ -96,8 +96,9 @@ _Discovery of transcritptional enhancers encoded in viral genomes._
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
 
 1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria?
-2. Describe the experiments summarized in Figure 2 and Table 2. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
-3. What happens to this enhancer during B-cell maturation?
+2. Describe the experiments summarized in Figure two and Table two. 
+3. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
+4. What happens to this enhancer during B-cell maturation?
 
 ------
 
@@ -189,4 +190,17 @@ _Role of insulators in genomic imprinting._
 1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
 2. How do the authors show that CTCF is specifically responsible for the effect?
 
+## Tutorial 1
+
+### Tutorial topics
+
+1. Heat shock
+2. The TATA box
+3. The glucocorticoid receptor
+4. Metal response elements
+5. The SV40 enhancer
+6. The interferon enhanceosome
+7. Integration of exogenous DNA into cellular genomes
+8. Position effects
+9. Locus control regions
 
