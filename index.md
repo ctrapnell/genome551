@@ -241,14 +241,16 @@ _Purification of the first human sequence-specific DNA binding proteins._
 2.	How did they show that the protein purified was Sp1?
 3.	How much cellular material did the experiments require?
 
-------
+<!-- 
+
+
 
 ### Davis et al. Cell 51:987-1000 (1987) [\[pdf\]](pdfs/davis.pdf)
 _First demonstration that a transcription factor can reprogram cell fate._
 
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
-3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 -->
 
 
 
