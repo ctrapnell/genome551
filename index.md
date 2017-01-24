@@ -170,25 +170,26 @@ _Discovery of insulator elements._
 
 ------
 
-### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
+<!-- ### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
 _Site-independent expression of the chicken beta A-globin gene in transgenic mice._  
 
 Questions TBD
-
-------
+ -->
 
 ### Bell et al., Cell 98:387-96 (1999) [\[pdf\]](pdfs/bell_1999.pdf)
 _The protein CTCF is required for the enhancer blocking activity of vertebrate insulators._ 
 
-Questions TBD
+1. Describe the experimental paradigm employed by the authors
+2. How do the authors connect specifically the observed functional outcomes to CTCF protein binding
 
 ------
 
-### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
+<!-- ### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
 _Role of insulators in genomic imprinting._
 
 1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
 2. How do the authors show that CTCF is specifically responsible for the effect?
+ -->
 
 ## Tutorial 1
 
@@ -203,4 +204,46 @@ _Role of insulators in genomic imprinting._
 7. Integration of exogenous DNA into cellular genomes
 8. Position effects
 9. Locus control regions
+10. High mobility group proteins
+
+------
+
+## Class 6: Transcription factors
+
+### Miller et al. EMBO J., 4:1609-1614 (1985)
+_Discovery of the zinc finger domain._
+1.	What property makes TFIIIA such attractive quarry?
+2.	What do the protease digestion experiments in Figure 1 show?
+3.	How do the authors arrive with the model of Figure 4?
+4.	Explain Figure 6 and how the authors propose TFIIIA relates to a passing polymerase
+
+------
+### Brent and Ptashne Cell 43:729-736 (1985)
+_Discovery of transcription factor activation domains._
+1.	Describe the experimental schema
+2.	What does Table 2 show, and how is this augmented by data in Table 5?
+3.	Would a fusion protein comprising only the first 74 amino acids of GAL4 stimulate transcription?
+4.	What is the fundamental conclusion concerning the mechanism by which DNA binding factors stimulate transcription?
+
+------
+<!-- Desplan et al. Nature 318:630-635 (1985)
+First demonstration that homeobox-containing proteins are DNA binding factors.
+1.	What is the homeobox?
+2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
+3.	What does Figure 4 show and what is its significance? -->
+
+### Kadonaga and Tjian PNAS 83:5889-5893 (1986)
+_Purification of the first human sequence-specific DNA binding proteins._
+1.	Describe the affinity column setup and the purification schema. What is the key step that enabled very high specificity?
+2.	How did they show that the protein purified was Sp1?
+3.	How much cellular material did the experiments require?
+
+------
+### Davis et al. Cell 51:987-1000 (1987)
+_First demonstration that a transcription factor can reprogram cell fate._
+1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
+2.	What can be concluded from the experiments shown in Figs. 2 and 3?
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
+
+
 
