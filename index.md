@@ -210,7 +210,7 @@ _Role of insulators in genomic imprinting._
 
 ## Class 6: Transcription factors
 
-### Miller et al. EMBO J., 4:1609-1614 (1985)
+### Miller et al. EMBO J., 4:1609-1614 (1985) [\[pdf\]](pdfs/miller.pdf)
 _Discovery of the zinc finger domain._
 
 1.	What property makes TFIIIA such attractive quarry?
@@ -220,7 +220,7 @@ _Discovery of the zinc finger domain._
 
 ------
 
-### Brent and Ptashne Cell 43:729-736 (1985)
+### Brent and Ptashne Cell 43:729-736 (1985) [\[pdf\]](pdfs/brent_ptashne.pdf)
 _Discovery of transcription factor activation domains._
 
 1.	Describe the experimental schema
@@ -235,7 +235,7 @@ First demonstration that homeobox-containing proteins are DNA binding factors.
 2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
 3.	What does Figure 4 show and what is its significance? -->
 
-### Kadonaga and Tjian PNAS 83:5889-5893 (1986)
+### Kadonaga and Tjian PNAS 83:5889-5893 (1986) [\[pdf\]](pdfs/kadonaga.pdf)
 _Purification of the first human sequence-specific DNA binding proteins._
 1.	Describe the affinity column setup and the purification schema. What is the key step that enabled very high specificity?
 2.	How did they show that the protein purified was Sp1?
@@ -243,7 +243,7 @@ _Purification of the first human sequence-specific DNA binding proteins._
 
 ------
 
-### Davis et al. Cell 51:987-1000 (1987)
+### Davis et al. Cell 51:987-1000 (1987) [\[pdf\]](pdfs/davis.pdf)
 _First demonstration that a transcription factor can reprogram cell fate._
 
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
