@@ -218,8 +218,10 @@ _Discovery of the zinc finger domain._
 4.	Explain Figure 6 and how the authors propose TFIIIA relates to a passing polymerase
 
 ------
+
 ### Brent and Ptashne Cell 43:729-736 (1985)
 _Discovery of transcription factor activation domains._
+
 1.	Describe the experimental schema
 2.	What does Table 2 show, and how is this augmented by data in Table 5?
 3.	Would a fusion protein comprising only the first 74 amino acids of GAL4 stimulate transcription?
@@ -239,8 +241,10 @@ _Purification of the first human sequence-specific DNA binding proteins._
 3.	How much cellular material did the experiments require?
 
 ------
+
 ### Davis et al. Cell 51:987-1000 (1987)
 _First demonstration that a transcription factor can reprogram cell fate._
+
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
 3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
