@@ -212,6 +212,7 @@ _Role of insulators in genomic imprinting._
 
 ### Miller et al. EMBO J., 4:1609-1614 (1985)
 _Discovery of the zinc finger domain._
+
 1.	What property makes TFIIIA such attractive quarry?
 2.	What do the protease digestion experiments in Figure 1 show?
 3.	How do the authors arrive with the model of Figure 4?
