@@ -241,6 +241,7 @@ _Purification of the first human sequence-specific DNA binding proteins._
 2.	How did they show that the protein purified was Sp1?
 3.	How much cellular material did the experiments require?
 
+------
 
 ## Class 7: Epigenetics and reprogramming
 
@@ -251,12 +252,15 @@ _First evidence suggesting a direct role for histone modification in transcripti
 2.	Explain the results of Figure 3 and how they relate to the model shown in Figure 4
 3.	Combining data from Figure 6 with those of Figure 3, what can we conclude about the nature of histone-DNA contacts from acetylated vs. non-acetylated histones?
 
+------
+
 ### McGhee and Ginder Nature 280:419-20 (1979) [\[pdf\]](pdfs/mcghee.pdf)
 _Discovery of the correlation between DNA methylation and gene activity._
 
 1.	Explain the banding pattern in figure 1
 2.	What controls do they perform (Figs. 1 and 2), and why?
 
+------
 
 ### Davis et al. Cell 51:987-1000 (1987) [\[pdf\]](pdfs/davis.pdf)
 _First demonstration that a transcription factor can reprogram cell fate._
@@ -264,6 +268,8 @@ _First demonstration that a transcription factor can reprogram cell fate._
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
 3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
+
+------
 
 ## Class 8: Epigenetics and reprogramming
 
@@ -273,6 +279,8 @@ _Discovery of RNA splicing_
 1. What is an R-loop? How does R-loop mapping work?
 2. Describe the results of the experiments shown in Figure 4. What can the authors conclude about the structure of the hexon gene?
 
+------
+
 ### Tsai et al. Cell 22 (1 Pt 1):219–30 (1980) [\[pdf\]](pdfs/tsai.pdf)
 _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryotic mRNA_ 
 
@@ -280,10 +288,12 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 2. Explain the loop counting assay. How do the authors reach their conclusions about processing order from the data shown in Table 1?
 3. What is the significance of the experiment discussed in Figure 10?
 
+------
+
 ### Amara et al  Nature 298:240-44 (1982) [\[pdf\]](pdfs/amara.pdf)
 _Reporting the existence of tissue-specific alternative splicing._
 
-1. Interpret the results shown in Figure 1 and Figure 3.  What is the significance of the result shown in Figure 3b?
+1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
 
