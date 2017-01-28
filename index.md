@@ -296,6 +296,16 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
+------
+ 
+### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
+_Inferring the existence of splicing factors._
+
+1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
+2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
+3. What is the main implication of the authors' findings regarding the machinery that carries out splicing?
+
+
 
 
 
