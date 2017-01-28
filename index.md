@@ -271,7 +271,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 ------
 
-## Class 8: Epigenetics and reprogramming
+## Class 8: Splicing
 
 ### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
 _Discovery of RNA splicing_
@@ -303,7 +303,7 @@ _Inferring the existence of splicing factors._
 
 1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
 2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
-3. What is the main implication of the authors' findings regarding the machinery that carries out splicing?
+3. What is the main implication of the authors' findings regarding the machinery that carries out splicing?
 
 
 
