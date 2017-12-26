@@ -166,17 +166,6 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 
 ------
 
-## Tutorial 2 topics
-
-1. Position effect variegation
-2. Monoallelic expression
-3. DNA methylation
-4. Alternative splicing
-5. Transcriptional rate vs. transcription initiation
-6. CTCF
-7. Splicing factors
-8. Identification of sequence-specific DNA binding proteins
-
 ## Class 7: Distal regulatory elements, Part III
 
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
@@ -214,6 +203,18 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
 ------
+
+## Tutorial 2 topics
+
+1. Position effect variegation
+2. Monoallelic expression
+3. DNA methylation
+4. Alternative splicing
+5. Transcriptional rate vs. transcription initiation
+6. CTCF
+7. Splicing factors
+8. Identification of sequence-specific DNA binding proteins
+
 
 ## Class 8: Insulators
 
