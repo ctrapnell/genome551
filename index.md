@@ -60,17 +60,6 @@ _This paper provided the first evidence of distinct, environmentally-responsive 
 
 ------
 
-<!--
-### Karin et al. Nature  308:513-519 (1984) [\[pdf\]](pdfs/karin.pdf)
-_This paper describes the existence of highly specialized regulatory response sequences in mammalian promoters._
-
-1. Describe the experimental paradigm used by Karin et al to isolate response elements.
-2. Could this method be used to map core promoter elements such as the TATA box?
-3. How is the loss of hormone inducibility specifically connected with binding of the glucocorticoid receptor?  
--->
-
-------
-
 ### Myers et al.   Science 232:613-619 (1986) [\[pdf\]](pdfs/myers.pdf)
 _This paper describes the first large-scale empirical characterization of human promoter elements with a functional assay._ 
 
@@ -299,31 +288,38 @@ _First demonstration that a transcription factor can reprogram cell fate._
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
 3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
 
+<!--
 
 ### Bonus papers
 
-<!-- Desplan et al. Nature 318:630-635 (1985)
+
+### Karin et al. Nature  308:513-519 (1984) [\[pdf\]](pdfs/karin.pdf)
+_This paper describes the existence of highly specialized regulatory response sequences in mammalian promoters._
+
+1. Describe the experimental paradigm used by Karin et al to isolate response elements.
+2. Could this method be used to map core promoter elements such as the TATA box?
+3. How is the loss of hormone inducibility specifically connected with binding of the glucocorticoid receptor?  
+
+
+### Desplan et al. Nature 318:630-635 (1985)
 First demonstration that homeobox-containing proteins are DNA binding factors.
 1.	What is the homeobox?
 2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
-3.	What does Figure 4 show and what is its significance? -->
+3.	What does Figure 4 show and what is its significance?
 
 
-<!-- ### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
+### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
 _Site-independent expression of the chicken beta A-globin gene in transgenic mice._ 
 
 Questions TBD
- -->
 
- <!-- ### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
+
+### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
  _Role of insulators in genomic imprinting._
 
  1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
  2. How do the authors show that CTCF is specifically responsible for the effect?
-  -->
 
-  <!--
-  ------
 
   ### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
   _Inferring the existence of splicing factors._
