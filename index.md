@@ -9,9 +9,17 @@ This work has played such a large role in the conceptualization of gene regulato
 
 1. What is the relative importance assigned to positive (activator) vs. negative (repressor) regulation?
 2. What logic supports Jacob and Monod’s conception of ‘messenger RNA’?
-3. How do kinetic (vs. qualitative yes/no) experiments influence how Jacob and Monod conceptualize and development key problems of gene regulation? 
+3. How do kinetic (vs. qualitative yes/no) experiments influence how Jacob and Monod conceptualize and development key problems of gene regulation?
+
+### Rob Phillips, Annu. Rev. Condens. Matter Phys.  2015. 6:85–111 (2015) [\[pdf\]](pdfs/phillips.pdf)
+
+_A modern physicists' view of transcriptional regulation_
+
+This review describes a mathematical framework for building quantitative models of transcription.
 
 ------
+
+## Class 2: Chromatin accessibility
 
 ### Ptashne, Nature 214:232-5 (1967) [\[pdf\]](pdfs/ptashne_nature_1967.pdf)
 
@@ -20,18 +28,18 @@ _This paper established that regulatory protein entities such as those discussed
 1. Diagram the experiment
 2. What are the experimental conditions and how could alterations in those conditions have affected the results?
 
------- 
+------
 
 ### Weintraub and Groudine, Science 193:848-56 (1976) [\[pdf\]](pdfs/weintraub_groudine.pdf)
 
 _This seminal paper provided the first evidence for the role of chromatin structure in gene expression._
 
-1. How do the authors introduce DNaseI into the nucleus? 
+1. How do the authors introduce DNaseI into the nucleus?
 2. Describe the DNase I sensitivity assay as employed by the authors.  Could this be applied to any gene?
 3. What do the authors. results suggest about the general organization of mammalian chromatin?
 4. What prediction do the authors make concerning the spacial properties of gene expression in the nucleus?
 
-## Class 2: Regulatory signals in promoters
+## Class 3: Regulatory signals in promoters
 
 ### Galas and Schmitz Nucl. Acids Res. 5:3157-3170 (1978) [\[pdf\]](pdfs/galas_schmitz.pdf)
 _This paper described a technique of fundamental importance for the characterization of promoters and other regulatory elements -- essentially allowing the combination of the type of information described by Jacob/Monod and Ptashe._ 
@@ -68,7 +76,7 @@ _This paper describes the first large-scale empirical characterization of human 
 
 ------
 
-## Class 3: Distal regulatory elements, Part I
+## Class 4: Distal regulatory elements, Part I
 
 ### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
 
@@ -96,7 +104,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
 
 1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria?
-2. Describe the experiments summarized in Figure two and Table two. 
+2. Describe the experiments summarized in Figure two and Table two.
 3. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
 4. What happens to this enhancer during B-cell maturation?
 
@@ -119,9 +127,27 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
+
 ------
 
-## Class 4: Distal regulatory elements, Part II
+## Tutorial 1
+
+### Tutorial topics
+
+1. Heat shock
+2. The TATA box
+3. The glucocorticoid receptor
+4. Metal response elements
+5. The SV40 enhancer
+6. The interferon enhanceosome
+7. Integration of exogenous DNA into cellular genomes
+8. Position effects
+9. Locus control regions
+10. High mobility group proteins
+
+------
+
+## Class 5: Distal regulatory elements, Part II
 
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
@@ -159,7 +185,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 
 ------
 
-## Class 5: Insulators
+## Class 6: Insulators
 
 ### Chung et al. Cell 74:505-14 (1993) [\[pdf\]](pdfs/chung.pdf)
 _Discovery of insulator elements._
@@ -168,47 +194,15 @@ _Discovery of insulator elements._
 2. How do the authors test for directionality?
 3. What does figure 5 show, and what is the mechanistic significance?
 
-------
-
-<!-- ### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
-_Site-independent expression of the chicken beta A-globin gene in transgenic mice._  
-
-Questions TBD
- -->
-
 ### Bell et al., Cell 98:387-96 (1999) [\[pdf\]](pdfs/bell_1999.pdf)
-_The protein CTCF is required for the enhancer blocking activity of vertebrate insulators._ 
+_The protein CTCF is required for the enhancer blocking activity of vertebrate insulators._
 
 1. Describe the experimental paradigm employed by the authors
 2. How do the authors connect specifically the observed functional outcomes to CTCF protein binding
 
 ------
 
-<!-- ### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
-_Role of insulators in genomic imprinting._
-
-1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
-2. How do the authors show that CTCF is specifically responsible for the effect?
- -->
-
-## Tutorial 1
-
-### Tutorial topics
-
-1. Heat shock
-2. The TATA box
-3. The glucocorticoid receptor
-4. Metal response elements
-5. The SV40 enhancer
-6. The interferon enhanceosome
-7. Integration of exogenous DNA into cellular genomes
-8. Position effects
-9. Locus control regions
-10. High mobility group proteins
-
-------
-
-## Class 6: Transcription factors
+## Class 7: Transcription factors
 
 ### Miller et al. EMBO J., 4:1609-1614 (1985) [\[pdf\]](pdfs/miller.pdf)
 _Discovery of the zinc finger domain._
@@ -229,11 +223,6 @@ _Discovery of transcription factor activation domains._
 4.	What is the fundamental conclusion concerning the mechanism by which DNA binding factors stimulate transcription?
 
 ------
-<!-- Desplan et al. Nature 318:630-635 (1985)
-First demonstration that homeobox-containing proteins are DNA binding factors.
-1.	What is the homeobox?
-2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
-3.	What does Figure 4 show and what is its significance? -->
 
 ### Kadonaga and Tjian PNAS 83:5889-5893 (1986) [\[pdf\]](pdfs/kadonaga.pdf)
 _Purification of the first human sequence-specific DNA binding proteins._
@@ -243,7 +232,7 @@ _Purification of the first human sequence-specific DNA binding proteins._
 
 ------
 
-## Class 7: Epigenetics and reprogramming
+## Class 8: Epigenetics and reprogramming
 
 ### Lee et al.  Cell  72:73-84 (1993) [\[pdf\]](pdfs/lee.pdf)
 _First evidence suggesting a direct role for histone modification in transcriptional regulation._
@@ -271,7 +260,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 ------
 
-## Class 8: Splicing
+## Class 9: Splicing
 
 ### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
 _Discovery of RNA splicing_
@@ -282,7 +271,7 @@ _Discovery of RNA splicing_
 ------
 
 ### Tsai et al. Cell 22 (1 Pt 1):219–30 (1980) [\[pdf\]](pdfs/tsai.pdf)
-_Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryotic mRNA_ 
+_Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryotic mRNA_
 
 1. Describe the pulse-chase experimental design.
 2. Explain the loop counting assay. How do the authors reach their conclusions about processing order from the data shown in Table 1?
@@ -297,16 +286,33 @@ _Reporting the existence of tissue-specific alternative splicing._
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
 ------
- 
+
 ### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
 _Inferring the existence of splicing factors._
 
 1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
 2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
-3. What is the main implication of the authors' findings regarding the machinery that carries out splicing?
+3. What is the main implication of the authors' findings regarding the machinery that carries out splicing? 
 
 
+------
+
+<!-- Desplan et al. Nature 318:630-635 (1985)
+First demonstration that homeobox-containing proteins are DNA binding factors.
+1.	What is the homeobox?
+2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
+3.	What does Figure 4 show and what is its significance? -->
 
 
+<!-- ### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
+_Site-independent expression of the chicken beta A-globin gene in transgenic mice._ 
 
+Questions TBD
+ -->
 
+ <!-- ### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
+ _Role of insulators in genomic imprinting._
+
+ 1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
+ 2. How do the authors show that CTCF is specifically responsible for the effect?
+  -->
