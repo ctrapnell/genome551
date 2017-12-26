@@ -39,7 +39,7 @@ _This seminal paper provided the first evidence for the role of chromatin struct
 3. What do the authors. results suggest about the general organization of mammalian chromatin?
 4. What prediction do the authors make concerning the spacial properties of gene expression in the nucleus?
 
-## Class 3: Regulatory signals in promoters
+------
 
 ### Galas and Schmitz Nucl. Acids Res. 5:3157-3170 (1978) [\[pdf\]](pdfs/galas_schmitz.pdf)
 _This paper described a technique of fundamental importance for the characterization of promoters and other regulatory elements -- essentially allowing the combination of the type of information described by Jacob/Monod and Ptashe._ 
@@ -47,7 +47,9 @@ _This paper described a technique of fundamental importance for the characteriza
 1. Describe the experiments and results illustrated in Figs. 2 and 5
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
+
 ------
+## Class 3: Regulatory signals in promoters
 
 ### Pelham Cell 30:517-528 (1982) [\[pdf\]](pdfs/pelham.pdf)
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
@@ -58,12 +60,14 @@ _This paper provided the first evidence of distinct, environmentally-responsive 
 
 ------
 
+<!--
 ### Karin et al. Nature  308:513-519 (1984) [\[pdf\]](pdfs/karin.pdf)
 _This paper describes the existence of highly specialized regulatory response sequences in mammalian promoters._
 
 1. Describe the experimental paradigm used by Karin et al to isolate response elements.
 2. Could this method be used to map core promoter elements such as the TATA box?
 3. How is the loss of hormone inducibility specifically connected with binding of the glucocorticoid receptor?  
+-->
 
 ------
 
@@ -76,7 +80,49 @@ _This paper describes the first large-scale empirical characterization of human 
 
 ------
 
-## Class 4: Distal regulatory elements, Part I
+## Tutorial 1 topics
+
+1. Heat shock
+2. The TATA box
+3. The glucocorticoid receptor
+4. Metal response elements
+5. The SV40 enhancer
+6. The interferon enhanceosome
+7. Integration of exogenous DNA into cellular genomes
+8. Position effects
+9. Locus control regions
+10. High mobility group proteins
+
+------
+
+## Class 4: Splicing
+
+### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
+_Discovery of RNA splicing_
+
+1. What is an R-loop? How does R-loop mapping work?
+2. Describe the results of the experiments shown in Figure 4. What can the authors conclude about the structure of the hexon gene?
+
+------
+
+### Tsai et al. Cell 22 (1 Pt 1):219–30 (1980) [\[pdf\]](pdfs/tsai.pdf)
+_Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryotic mRNA_
+
+1. Describe the pulse-chase experimental design.
+2. Explain the loop counting assay. How do the authors reach their conclusions about processing order from the data shown in Table 1?
+3. What is the significance of the experiment discussed in Figure 10?
+
+------
+
+### Amara et al  Nature 298:240-44 (1982) [\[pdf\]](pdfs/amara.pdf)
+_Reporting the existence of tissue-specific alternative splicing._
+
+1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
+2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
+
+------
+
+## Class 5: Distal regulatory elements, Part I
 
 ### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
 
@@ -100,10 +146,12 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 
 ------
 
+## Class 6: Distal regulatory elements, Part II
+
 ### Banerji et al.  Cell  33:729-40 (1983) [\[pdf\]](pdfs/banerji_1983.pdf)
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
 
-1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria?
+1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria.
 2. Describe the experiments summarized in Figure two and Table two.
 3. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
 4. What happens to this enhancer during B-cell maturation?
@@ -127,27 +175,20 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
-
 ------
 
-## Tutorial 1
+## Tutorial 2 topics
 
-### Tutorial topics
+1. Position effect variegation
+2. Monoallelic expression
+3. DNA methylation
+4. Alternative splicing
+5. Transcriptional rate vs. transcription initiation
+6. CTCF
+7. Splicing factors
+8. Identification of sequence-specific DNA binding proteins
 
-1. Heat shock
-2. The TATA box
-3. The glucocorticoid receptor
-4. Metal response elements
-5. The SV40 enhancer
-6. The interferon enhanceosome
-7. Integration of exogenous DNA into cellular genomes
-8. Position effects
-9. Locus control regions
-10. High mobility group proteins
-
-------
-
-## Class 5: Distal regulatory elements, Part II
+## Class 7: Distal regulatory elements, Part III
 
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
@@ -185,7 +226,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 
 ------
 
-## Class 6: Insulators
+## Class 8: Insulators
 
 ### Chung et al. Cell 74:505-14 (1993) [\[pdf\]](pdfs/chung.pdf)
 _Discovery of insulator elements._
@@ -202,7 +243,7 @@ _The protein CTCF is required for the enhancer blocking activity of vertebrate i
 
 ------
 
-## Class 7: Transcription factors
+## Class 9: Transcription factors
 
 ### Miller et al. EMBO J., 4:1609-1614 (1985) [\[pdf\]](pdfs/miller.pdf)
 _Discovery of the zinc finger domain._
@@ -232,7 +273,7 @@ _Purification of the first human sequence-specific DNA binding proteins._
 
 ------
 
-## Class 8: Epigenetics and reprogramming
+## Class 10: Epigenetics and reprogramming
 
 ### Lee et al.  Cell  72:73-84 (1993) [\[pdf\]](pdfs/lee.pdf)
 _First evidence suggesting a direct role for histone modification in transcriptional regulation._
@@ -258,44 +299,8 @@ _First demonstration that a transcription factor can reprogram cell fate._
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
 3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
 
-------
 
-## Class 9: Splicing
-
-### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
-_Discovery of RNA splicing_
-
-1. What is an R-loop? How does R-loop mapping work?
-2. Describe the results of the experiments shown in Figure 4. What can the authors conclude about the structure of the hexon gene?
-
-------
-
-### Tsai et al. Cell 22 (1 Pt 1):219–30 (1980) [\[pdf\]](pdfs/tsai.pdf)
-_Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryotic mRNA_
-
-1. Describe the pulse-chase experimental design.
-2. Explain the loop counting assay. How do the authors reach their conclusions about processing order from the data shown in Table 1?
-3. What is the significance of the experiment discussed in Figure 10?
-
-------
-
-### Amara et al  Nature 298:240-44 (1982) [\[pdf\]](pdfs/amara.pdf)
-_Reporting the existence of tissue-specific alternative splicing._
-
-1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
-2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
-
-------
-
-### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
-_Inferring the existence of splicing factors._
-
-1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
-2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
-3. What is the main implication of the authors' findings regarding the machinery that carries out splicing? 
-
-
-------
+### Bonus papers
 
 <!-- Desplan et al. Nature 318:630-635 (1985)
 First demonstration that homeobox-containing proteins are DNA binding factors.
@@ -316,3 +321,13 @@ Questions TBD
  1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
  2. How do the authors show that CTCF is specifically responsible for the effect?
   -->
+
+  <!--
+  ------
+
+  ### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
+  _Inferring the existence of splicing factors._
+
+  1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
+  2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
+  3. What is the main implication of the authors' findings regarding the machinery that carries out splicing? -->
