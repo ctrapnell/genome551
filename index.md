@@ -17,7 +17,7 @@ _A modern physicists' view of transcriptional regulation_
 
 This review describes a mathematical framework for building quantitative models of transcription.
 
-1. How are the values of $\epsilon_1(N) = \sum_{p=1}^N \text{E}(p)$
+1. How are the values of $$\Delta\epsilon_{rd}$$ shown in Figure 7 determined?
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
 <!--
