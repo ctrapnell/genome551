@@ -69,7 +69,6 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
-<!--
 ------
 ## Class 3: Regulatory signals in promoters
 
@@ -92,6 +91,7 @@ _This paper describes the first large-scale empirical characterization of human 
 ------
 
 ## Tutorial 1 topics
+_We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
 
 1. Heat shock
 2. The TATA box
@@ -103,6 +103,8 @@ _This paper describes the first large-scale empirical characterization of human 
 8. Position effects
 9. Locus control regions
 10. High mobility group proteins
+
+<!--
 
 ------
 
