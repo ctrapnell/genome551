@@ -104,8 +104,6 @@ _We will discuss the first tutorial assignment (due approximately two weeks from
 9. Locus control regions
 10. High mobility group proteins
 
-<!--
-
 ------
 
 ## Class 4: Splicing
@@ -133,6 +131,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
+<!--
 ------
 
 ## Class 5: Distal regulatory elements, Part I
