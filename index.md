@@ -131,7 +131,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
-<!--
+
 ------
 
 ## Class 5: Distal regulatory elements, Part I
@@ -155,7 +155,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 2. How are the 5’ transcript ends determined in Figure 2? How did they estimate the number of transcripts per cell?
 3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
 4. How well did they localize the sequences responsible for enhancer activity?
-
+<!--
 ------
 
 ## Class 6: Distal regulatory elements, Part II
