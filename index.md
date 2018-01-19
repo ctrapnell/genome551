@@ -156,7 +156,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
 4. How well did they localize the sequences responsible for enhancer activity?
 
-<!--
+
 ------
 
 ## Class 6: Distal regulatory elements, Part II
@@ -188,6 +188,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
+<!--
 ------
 
 ## Class 7: Distal regulatory elements, Part III
