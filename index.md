@@ -188,7 +188,6 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
-<!--
 ------
 
 ## Class 7: Distal regulatory elements, Part III
@@ -217,6 +216,8 @@ _Discovery of what we now call Locus Control Regions._
 1. Describe the experimental schema. How does exogenous DNA integrate into the mouse genome?
 2. What are position effects, and what is the significance of copy number-dependent expression?
 3. What model is proposed by the authors to explain their observations?
+
+<!--
 
 ------
 
