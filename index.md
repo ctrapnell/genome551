@@ -217,6 +217,25 @@ _Discovery of what we now call Locus Control Regions._
 2. What are position effects, and what is the significance of copy number-dependent expression?
 3. What model is proposed by the authors to explain their observations?
 
+## Class 8: Epigenetics and reprogramming
+
+### Lee et al.  Cell  72:73-84 (1993) [\[pdf\]](pdfs/lee.pdf)
+_First evidence suggesting a direct role for histone modification in transcriptional regulation._
+
+1.	What property of the 5S RNA gene promoter makes it a model system for studying nucleosome-DNA interactions in vitro?
+2.	Explain the results of Figure 3 and how they relate to the model shown in Figure 4
+3.	Combining data from Figure 6 with those of Figure 3, what can we conclude about the nature of histone-DNA contacts from acetylated vs. non-acetylated histones?
+
+------
+
+### Davis et al. Cell 51:987-1000 (1987) [\[pdf\]](pdfs/davis.pdf)
+_First demonstration that a transcription factor can reprogram cell fate._
+
+1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
+2.	What can be concluded from the experiments shown in Figs. 2 and 3?
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
+
+
 <!--
 
 ------
@@ -288,32 +307,6 @@ _Purification of the first human sequence-specific DNA binding proteins._
 3.	How much cellular material did the experiments require?
 
 ------
-
-## Class 10: Epigenetics and reprogramming
-
-### Lee et al.  Cell  72:73-84 (1993) [\[pdf\]](pdfs/lee.pdf)
-_First evidence suggesting a direct role for histone modification in transcriptional regulation._
-
-1.	What property of the 5S RNA gene promoter makes it a model system for studying nucleosome-DNA interactions in vitro?
-2.	Explain the results of Figure 3 and how they relate to the model shown in Figure 4
-3.	Combining data from Figure 6 with those of Figure 3, what can we conclude about the nature of histone-DNA contacts from acetylated vs. non-acetylated histones?
-
-------
-
-### McGhee and Ginder Nature 280:419-20 (1979) [\[pdf\]](pdfs/mcghee.pdf)
-_Discovery of the correlation between DNA methylation and gene activity._
-
-1.	Explain the banding pattern in figure 1
-2.	What controls do they perform (Figs. 1 and 2), and why?
-
-------
-
-### Davis et al. Cell 51:987-1000 (1987) [\[pdf\]](pdfs/davis.pdf)
-_First demonstration that a transcription factor can reprogram cell fate._
-
-1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
-2.	What can be concluded from the experiments shown in Figs. 2 and 3?
-3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
 
 --!>
 
