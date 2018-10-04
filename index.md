@@ -76,8 +76,8 @@ NOTE:  We will be coming back to the kinetic analyses in Section C at a later c
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
 
 1. What does the experiment illustrated in Figure 2 establish?
-2. Describe the experiment illustrated in Figure 4 and its main conclusion.
-3. Does HSE act as a thermostat? 
+2. Describe the experiment illustrated in Figure 4 and its main conclusion
+3. Does HSE act as a thermostat? 
 
 ------
 
@@ -93,7 +93,7 @@ _This paper describes the first large-scale empirical characterization of human 
 ## Tutorial 1 topics
 _We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
 
-For this assignment, please write a summary of the history and significance of one of the following topics. You should be able to begin with a summary paragraph that:
+For this assignment, please write a summary of the history and significance of one of the following topics. It should be no more than 2 pages excluding references and ideally closer to 1.5 pages. You should be able to begin with a summary paragraph that:
 
 1. Defines the topic.
 2. States how it was discovered.
