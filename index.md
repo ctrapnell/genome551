@@ -93,6 +93,18 @@ _This paper describes the first large-scale empirical characterization of human 
 ## Tutorial 1 topics
 _We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
 
+For this assignment, please write a summary of the history and significance of one of the following topics. You should be able to begin with a summary paragraph that:
+
+1. Defines the topic.
+2. States how it was discovered.
+3. Notes who discovered it.
+4. Provides an *extremely brief* (1-3 sentences) synopsis of the arc of experiments that followed the initial discovery.
+5. Concludes with a statement about the overall significance of the topic (as it understood today) for the field of gene regulation. 
+
+Here's an [example](pdfs/tutorial_example.pdf) of a good tutorial.
+
+The topics:
+
 1. Heat shock
 2. The TATA box
 3. The glucocorticoid receptor
