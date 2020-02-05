@@ -38,6 +38,7 @@ This review describes a mathematical framework for building quantitative models 
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
 
+<!-- 
 ------
 
 ## Class 2: Chromatin accessibility
@@ -245,7 +246,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
-3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 -->
 
 
 <!--
