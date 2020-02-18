@@ -70,7 +70,7 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
-<!-- 
+
 ------
 ## Class 3: Regulatory signals in promoters
 
@@ -91,7 +91,7 @@ _This paper describes the first large-scale empirical characterization of human 
 3. Describe the assay used by Myers et al in Figure 2
 
 ------
-
+<!-- 
 ## Tutorial 1 topics
 _We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
 
