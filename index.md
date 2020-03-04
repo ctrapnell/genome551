@@ -206,7 +206,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
 ------
-<!--
+
 ## Class 7: Distal regulatory elements, Part III
 
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
@@ -225,7 +225,10 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 
+<!--
 ------
+
+## Class 8: Distal regulatory elements, Part IV
 
 ### Grosveld et al. Cell 51:975-85 (1987) [\[pdf\]](pdfs/grosveld.pdf)
 _Discovery of what we now call Locus Control Regions._
@@ -234,7 +237,16 @@ _Discovery of what we now call Locus Control Regions._
 2. What are position effects, and what is the significance of copy number-dependent expression?
 3. What model is proposed by the authors to explain their observations?
 
-## Class 8: Epigenetics and reprogramming
+### Blom van Assendelft et al Cell 56:969-977 (1989) [\[pdf\]](pdfs/blom_van_assendelft.pdf)
+_First demonstration that the cell type-specific activity of a distal regulatory element is distinct from that of its promoter targets._
+
+1. What is the structure of the experimental test constructs before and after transfection?
+2. How do the authors test for copy number-dependent expression?
+3. What are the general implications of the authors’ findings for the organization of genes within the genome?
+
+------
+
+## Class 9: Epigenetics and reprogramming
 
 ### Lee et al.  Cell  72:73-84 (1993) [\[pdf\]](pdfs/lee.pdf)
 _First evidence suggesting a direct role for histone modification in transcriptional regulation._
@@ -257,12 +269,6 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 ------
 
-### Blom van Assendelft et al Cell 56:969-977 (1989) [\[pdf\]](pdfs/blom_van_assendelft.pdf)
-_First demonstration that the cell type-specific activity of a distal regulatory element is distinct from that of its promoter targets._
-
-1. What is the structure of the experimental test constructs before and after transfection?
-2. How do the authors test for copy number-dependent expression?
-3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
 ------
 
