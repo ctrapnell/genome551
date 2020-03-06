@@ -225,7 +225,7 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 
-<!--
+
 ------
 
 ## Class 8: Distal regulatory elements, Part IV
@@ -244,6 +244,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 2. How do the authors test for copy number-dependent expression?
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
+<!--
 ------
 
 ## Class 9: Epigenetics and reprogramming
