@@ -244,7 +244,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 2. How do the authors test for copy number-dependent expression?
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
-<!--
+
 ------
 
 ## Class 9: Epigenetics and reprogramming
@@ -265,6 +265,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
 3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 -->
 
+<!--
 
 <!--
 
