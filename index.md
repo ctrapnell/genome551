@@ -92,36 +92,7 @@ _This paper describes the first large-scale empirical characterization of human 
 3. Describe the assay used by Myers et al in Figure 2
 
 ------
-<!-- 
-## Tutorial 1 topics
-_We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
 
-For this assignment, please write a summary of the history and significance of one of the following topics. It should be no more than 2 pages excluding references and ideally closer to 1.5 pages. You should be able to begin with a summary paragraph that:
-
-1. Defines the topic.
-2. States how it was discovered.
-3. Notes who discovered it.
-4. Provides an *extremely brief* (1-3 sentences) synopsis of the arc of experiments that followed the initial discovery.
-5. Concludes with a statement about the overall significance of the topic (as it understood today) for the field of gene regulation. 
-
-Here's an [example](pdfs/tutorial_example.pdf) of a good tutorial.
-
-The topics:
-
-1. Heat shock
-2. The TATA box
-3. The glucocorticoid receptor
-4. Metal response elements
-5. The SV40 enhancer
-6. The interferon enhanceosome
-7. Integration of exogenous DNA into cellular genomes
-8. Position effects
-9. Locus control regions
-10. High mobility group proteins
-
-------
-
---> 
 
 ## Class 4: Splicing
 
@@ -374,3 +345,36 @@ Questions TBD
   1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
   2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
   3. What is the main implication of the authors' findings regarding the machinery that carries out splicing? -->
+
+
+
+<!-- 
+## Tutorial 1 topics
+_We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
+
+For this assignment, please write a summary of the history and significance of one of the following topics. It should be no more than 2 pages excluding references and ideally closer to 1.5 pages. You should be able to begin with a summary paragraph that:
+
+1. Defines the topic.
+2. States how it was discovered.
+3. Notes who discovered it.
+4. Provides an *extremely brief* (1-3 sentences) synopsis of the arc of experiments that followed the initial discovery.
+5. Concludes with a statement about the overall significance of the topic (as it understood today) for the field of gene regulation. 
+
+Here's an [example](pdfs/tutorial_example.pdf) of a good tutorial.
+
+The topics:
+
+1. Heat shock
+2. The TATA box
+3. The glucocorticoid receptor
+4. Metal response elements
+5. The SV40 enhancer
+6. The interferon enhanceosome
+7. Integration of exogenous DNA into cellular genomes
+8. Position effects
+9. Locus control regions
+10. High mobility group proteins
+
+------
+
+--> 
