@@ -71,7 +71,7 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
-<!--
+
 ------
 ## Class 3: Regulatory signals in promoters
 
@@ -119,7 +119,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
-
+<!--
 
 ------
 
