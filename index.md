@@ -119,7 +119,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP.
 
-<!--
+
 
 ------
 
@@ -176,6 +176,9 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 1. Describe the experiments in Figsure 3 and 4 and how these led to the proposed “enhanceosome” structure.
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
+
+
+<!--
 
 ------
 
