@@ -188,7 +188,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 _First experiments aimed at discovering the mechanism of action of enhancers._
 
 1. Describe the experimental strategy used by Treisman and Maniatis. Compare results from Figure 2 and 3. What does this comparison say about the magnitude of the enhancer effect in nuclear run-on vs. steady state RNA assays?
-2. Describe the results of Figure 4. How do they relate conceptually to the findings of Gariglio et al.?
+2. Describe the results of Figure 4. 
 3. How do the authors rule-out non-specific initiation?
 
 ------
@@ -200,7 +200,7 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 
-<!--
+
 ------
 
 ## Class 8: Distal regulatory elements, Part IV
@@ -219,6 +219,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 2. How do the authors test for copy number-dependent expression?
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
+<!--
 
 ------
 
