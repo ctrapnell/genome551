@@ -219,7 +219,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 2. How do the authors test for copy number-dependent expression?
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
-<!--
+
 
 ------
 
