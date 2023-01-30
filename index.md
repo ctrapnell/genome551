@@ -243,6 +243,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 
 
+<!--
 
 ------
 
@@ -307,10 +308,6 @@ _Purification of the first human sequence-specific DNA binding proteins._
 3.	How much cellular material did the experiments require?
 
 ------
-
---!>
-
-<!--
 
 ### Bonus papers
 
