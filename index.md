@@ -38,7 +38,7 @@ This review describes a mathematical framework for building quantitative models 
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
 
-<!--
+
 
 ------
 
@@ -90,6 +90,8 @@ _This paper describes the first large-scale empirical characterization of human 
 1. What are the CAAT, CACCC, and TATA boxes?  What proportion of human genes have these so-called "canonical" features?
 2. Describe the enhancer-dependent transcription assay used by Myers et al to ascertain the effect of promoter point mutants.
 3. Describe the assay used by Myers et al in Figure 2
+
+<!--
 
 ------
 
