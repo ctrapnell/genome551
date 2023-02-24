@@ -153,8 +153,6 @@ and what is the outcome if this control is altered?
 generalizable to all microRNAs?
 4. Describe the selection scheme and the main findings in figures 4 & 5
 
-<!--
-
 ------
 
 ## Class 5: Distal regulatory elements, Part I
@@ -212,6 +210,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
 
+<!--
 
 
 ------
