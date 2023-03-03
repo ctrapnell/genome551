@@ -233,8 +233,11 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 
+-->
 
 ------
+
+
 
 ## Class 8: Distal regulatory elements, Part IV
 
