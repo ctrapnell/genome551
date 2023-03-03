@@ -155,7 +155,7 @@ generalizable to all microRNAs?
 
 ------
 
-## Class 5: Distal regulatory elements, Part I
+## Class 6: Distal regulatory elements, Part I
 
 ### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
 
@@ -180,7 +180,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 
 ------
 
-## Class 6: Distal regulatory elements, Part II
+## Class 7: Distal regulatory elements, Part II
 
 ### Banerji et al.  Cell  33:729-40 (1983) [\[pdf\]](pdfs/banerji_1983.pdf)
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
