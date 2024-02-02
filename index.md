@@ -38,7 +38,7 @@ This review describes a mathematical framework for building quantitative models 
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
 
-
+<!-- 
 
 ------
 
@@ -113,7 +113,8 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 2. Explain the loop counting assay. How do the authors reach their conclusions about processing order from the data shown in Table 1?
 3. What is the significance of the experiment discussed in Figure 10?
 
-------
+------ 
+-->
 
 <!-- ### Amara et al  Nature 298:240-44 (1982) [\[pdf\]](pdfs/amara.pdf)
 _Reporting the existence of tissue-specific alternative splicing._
@@ -121,6 +122,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP. -->
 
+<!-- 
 ## Class 5: Micro RNAs
 
 ### Gebert & MacRae 2019 [\[pdf\]](pdfs/gebert_macrae.pdf)
@@ -207,7 +209,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 
 1. Describe the experiments in Figsure 3 and 4 and how these led to the proposed “enhanceosome” structure.
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
-3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
+3. What experiments suggest the existence of protein-protein interactions between NFkB and other components? -->
 
 
 <!--
@@ -238,7 +240,7 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 ------
 
 
-
+<!-- 
 ## Class 8: Distal regulatory elements, Part IV
 
 ### Grosveld et al. Cell 51:975-85 (1987) [\[pdf\]](pdfs/grosveld.pdf)
@@ -275,7 +277,9 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
-3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 -->
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 
+
+-->
 
 
 
