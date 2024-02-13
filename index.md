@@ -89,7 +89,6 @@ _This paper describes the first large-scale empirical characterization of human 
 2. Describe the enhancer-dependent transcription assay used by Myers et al to ascertain the effect of promoter point mutants.
 3. Describe the assay used by Myers et al in Figure 2
 
-<!-- 
 
 ------
 
@@ -118,42 +117,8 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 _Reporting the existence of tissue-specific alternative splicing._
 
 1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
-2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP. -->
-
-<!-- 
-## Class 5: Micro RNAs
-
-### Gebert & MacRae 2019 [\[pdf\]](pdfs/gebert_macrae.pdf)
-_This is a relatively recent review on micro RNAs, just for your reference. We will not discuss this paper and there are not study questions for it, but you might find the description of the mechanism of repression useful when reading the papers below._
-
-### Lee et al. Cell 1993 [\[pdf\]](pdfs/ambros.pdf)
-
-_This is one of two papers that first described the concept of a “microRNA” Both papers came to
-very similar conclusions about how this mechanism of regulation worked._
-
-1. What is the significance/ where did the name lin-4 come from? (not in this paper- you might
-have to do some googling)
-2. How did they map lin-4 in the genome?
-3. In modern terms, what are lin-4L and lin-4S?
-
-### Wightman et al. 1993 [\[pdf\]](pdfs/ruvkin.pdf)
-_The other paper first describing microRNAs from Gary Ruvkin’s group_
-1. What parts of the discovery were described only by the Ruvkin group and which were only
-described by the Ambros group?
-2. Describe the experiments in Figures 2 & 3.
-
-### Cassidy et al. 2013 [\[pdf\]](pdfs/cassidy.pdf)
-_An extensively detailed understanding of buffering/canalization by a microRNA in Drosophila.
-This was the first to describe this type of microRNA control._
-
-1. How/why does miR-9a contribute to the binary switch in fate to SSOs (scutellar sensory organs)
-and what is the outcome if this control is altered?
-2. Explain realized heritability
-3. What is the evidence miR-9a suppresses variation caused by genomic diversity, is this
-generalizable to all microRNAs?
-4. Describe the selection scheme and the main findings in figures 4 & 5
-
-------
+2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP. 
+-->
 
 ## Class 6: Distal regulatory elements, Part I
 
@@ -177,6 +142,8 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
 4. How well did they localize the sequences responsible for enhancer activity?
 
+
+<!-- 
 
 ------
 
@@ -417,3 +384,40 @@ The topics:
 ------
 
 --> 
+
+
+
+<!-- 
+## Class 5: Micro RNAs
+
+### Gebert & MacRae 2019 [\[pdf\]](pdfs/gebert_macrae.pdf)
+_This is a relatively recent review on micro RNAs, just for your reference. We will not discuss this paper and there are not study questions for it, but you might find the description of the mechanism of repression useful when reading the papers below._
+
+### Lee et al. Cell 1993 [\[pdf\]](pdfs/ambros.pdf)
+
+_This is one of two papers that first described the concept of a “microRNA” Both papers came to
+very similar conclusions about how this mechanism of regulation worked._
+
+1. What is the significance/ where did the name lin-4 come from? (not in this paper- you might
+have to do some googling)
+2. How did they map lin-4 in the genome?
+3. In modern terms, what are lin-4L and lin-4S?
+
+### Wightman et al. 1993 [\[pdf\]](pdfs/ruvkin.pdf)
+_The other paper first describing microRNAs from Gary Ruvkin’s group_
+1. What parts of the discovery were described only by the Ruvkin group and which were only
+described by the Ambros group?
+2. Describe the experiments in Figures 2 & 3.
+
+### Cassidy et al. 2013 [\[pdf\]](pdfs/cassidy.pdf)
+_An extensively detailed understanding of buffering/canalization by a microRNA in Drosophila.
+This was the first to describe this type of microRNA control._
+
+1. How/why does miR-9a contribute to the binary switch in fate to SSOs (scutellar sensory organs)
+and what is the outcome if this control is altered?
+2. Explain realized heritability
+3. What is the evidence miR-9a suppresses variation caused by genomic diversity, is this
+generalizable to all microRNAs?
+4. Describe the selection scheme and the main findings in figures 4 & 5
+
+------
