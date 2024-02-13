@@ -120,7 +120,7 @@ _Reporting the existence of tissue-specific alternative splicing._
 2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP. 
 -->
 
-## Class 6: Distal regulatory elements, Part I
+## Class 5: Distal regulatory elements, Part I
 
 ### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
 
