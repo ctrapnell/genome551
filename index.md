@@ -179,12 +179,14 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components? -->
 
 
-<!-- ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
+<!-- 
+### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
 
 1. Describe the experimental strategy used by Treisman and Maniatis. Compare results from Figure 2 and 3. What does this comparison say about the magnitude of the enhancer effect in nuclear run-on vs. steady state RNA assays?
 2. Describe the results of Figure 4. 
-3. How do the authors rule-out non-specific initiation? -->
+3. How do the authors rule-out non-specific initiation? 
+-->
 
 ------
 
@@ -414,3 +416,5 @@ generalizable to all microRNAs?
 4. Describe the selection scheme and the main findings in figures 4 & 5
 
 ------
+
+-->
