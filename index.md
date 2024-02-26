@@ -147,7 +147,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 
 ------
 
-## Class 7: Distal regulatory elements, Part II
+## Class 6: Distal regulatory elements, Part II
 
 ### Banerji et al.  Cell  33:729-40 (1983) [\[pdf\]](pdfs/banerji_1983.pdf)
 _Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
@@ -169,7 +169,7 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
-## Class 8: Distal regulatory elements, Part III
+## Class 7: Distal regulatory elements, Part III
 
 ### Thanos and Maniatis  Cell  83:1091-100 (1995) [\[pdf\]](pdfs/thanos_maniatis.pdf)
 _One of the first systematic descriptions of the fine structure of enhancer._
