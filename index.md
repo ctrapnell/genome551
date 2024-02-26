@@ -143,7 +143,7 @@ _Discovery of transcriptional enhancers encoded in viral genomes._
 4. How well did they localize the sequences responsible for enhancer activity?
 
 
-<!-- 
+
 
 ------
 
@@ -169,6 +169,8 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
+## Class 8: Distal regulatory elements, Part III
+
 ### Thanos and Maniatis  Cell  83:1091-100 (1995) [\[pdf\]](pdfs/thanos_maniatis.pdf)
 _One of the first systematic descriptions of the fine structure of enhancer._
 
@@ -177,19 +179,12 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 3. What experiments suggest the existence of protein-protein interactions between NFkB and other components? -->
 
 
-<!--
-
-
-------
-
-## Class 7: Distal regulatory elements, Part III
-
-### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
+<!-- ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
 
 1. Describe the experimental strategy used by Treisman and Maniatis. Compare results from Figure 2 and 3. What does this comparison say about the magnitude of the enhancer effect in nuclear run-on vs. steady state RNA assays?
 2. Describe the results of Figure 4. 
-3. How do the authors rule-out non-specific initiation?
+3. How do the authors rule-out non-specific initiation? -->
 
 ------
 
@@ -199,8 +194,6 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 1. Diagram the experimental strategy of Weintraub. Summarize the qualitative results from Figure 2 and the related quantitative data reported in the text.
 2. How did Weintraub show that only a limited number of active templates are expressed after transfection? Why is this important?
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
-
--->
 
 ------
 
