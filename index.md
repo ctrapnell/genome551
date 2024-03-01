@@ -200,7 +200,7 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 ------
 
 
-<!-- 
+
 ## Class 8: Distal regulatory elements, Part IV
 
 ### Grosveld et al. Cell 51:975-85 (1987) [\[pdf\]](pdfs/grosveld.pdf)
@@ -241,7 +241,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 -->
 
-
+<!-- 
 
 <!--
 
