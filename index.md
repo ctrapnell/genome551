@@ -37,7 +37,7 @@ This review describes a mathematical framework for building quantitative models 
 1. How are the values of $$\Delta\epsilon_{rd}$$ shown in Figure 7 determined?
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
-
+<!-- 
 ------
 
 ## Class 2: Chromatin accessibility
