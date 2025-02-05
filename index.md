@@ -37,7 +37,7 @@ This review describes a mathematical framework for building quantitative models 
 1. How are the values of $$\Delta\epsilon_{rd}$$ shown in Figure 7 determined?
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
-<!-- 
+
 ------
 
 ## Class 2: Chromatin accessibility
@@ -69,9 +69,56 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
+<!-- 
+------
+
+## Class 3: Distal regulatory elements, Part I
+
+### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
+
+_This paper was the first to describe the chromatin architecture of mammalian genes in relation to their cis-regulatory elements.  The paper was also the first to show that regulatory sequences undergo chromatin structural changes in different cell types._
+
+1. Diagram the experiment
+2. Contrast the DNaseI sensitivity assays employed in this paper vs. those of Weintraub and Groudine (Science, 1976).  Describe the different levels of DNaseI sensitivity the authors report and their interpretations for the structure of gene domains.
+3. How do the reported assays depend on the selection of restriction fragments and probes?
+4. Describe the experiment and results of Figure 5
+5. What significance to the authors assign to their results, and what predictions do they make?
 
 ------
-## Class 3: Regulatory signals in promoters
+
+### Banerji et al. Cell 27:299−308 (1981) [\[pdf\]](pdfs/banerji_1981.pdf)
+_Discovery of transcriptional enhancers encoded in viral genomes._
+
+1. What is the experimental schema and why did they devise it?
+2. How are the 5’ transcript ends determined in Figure 2? How did they estimate the number of transcripts per cell?
+3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
+4. How well did they localize the sequences responsible for enhancer activity?
+
+------
+
+## Class 4: Distal regulatory elements, Part II
+
+### Banerji et al.  Cell  33:729-40 (1983) [\[pdf\]](pdfs/banerji_1983.pdf)
+_Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
+
+1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria.
+2. Describe the experiments summarized in Figure two and Table two.
+3. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
+4. What happens to this enhancer during B-cell maturation?
+
+------
+
+### Hanahan Nature 315:115-22 (1985) [\[pdf\]](pdfs/hanahan.pdf)
+_First demonstration of the activity of a cellular enhancer in vivo._
+
+1. What is an oncogene? What is hyperplasia?
+2. Describe the experimental schema, including constructs and the breeding strategy
+3. What can we conclude about cell and tissue specificity of transgene expression?
+4. What phenotypes arise from the hybrid oncogenes?
+
+------
+
+## Class 3: Regulatory signals in DNA elements
 
 ### Pelham Cell 30:517-528 (1982) [\[pdf\]](pdfs/pelham.pdf)
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
@@ -111,63 +158,8 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 3. What is the significance of the experiment discussed in Figure 10?
 
 ------ 
--->
-
-<!-- ### Amara et al  Nature 298:240-44 (1982) [\[pdf\]](pdfs/amara.pdf)
-_Reporting the existence of tissue-specific alternative splicing._
-
-1. Interpret the results shown in Figure one and Figure three.  What is the significance of the result shown in Figure 3b?
-2. Diagram the alternative splicing schema that results in production of calcitonin vs. CGRP. 
--->
-
-## Class 5: Distal regulatory elements, Part I
-
-### Stalder et al.  Cell  20:451-460 (1980) [\[pdf\]](pdfs/stalder.pdf)
-
-_This paper was the first to describe the chromatin architecture of mammalian genes in relation to their cis-regulatory elements.  The paper was also the first to show that regulatory sequences undergo chromatin structural changes in different cell types._
-
-1. Diagram the experiment
-2. Contrast the DNaseI sensitivity assays employed in this paper vs. those of Weintraub and Groudine (Science, 1976).  Describe the different levels of DNaseI sensitivity the authors report and their interpretations for the structure of gene domains.
-3. How do the reported assays depend on the selection of restriction fragments and probes?
-4. Describe the experiment and results of Figure 5
-5. What significance to the authors assign to their results, and what predictions do they make?
-
-------
-
-### Banerji et al. Cell 27:299−308 (1981) [\[pdf\]](pdfs/banerji_1981.pdf)
-_Discovery of transcriptional enhancers encoded in viral genomes._
-
-1. What is the experimental schema and why did they devise it?
-2. How are the 5’ transcript ends determined in Figure 2? How did they estimate the number of transcripts per cell?
-3. How do they show that the enhancement phenomenon is not an artifact of the experimental system?
-4. How well did they localize the sequences responsible for enhancer activity?
 
 
-
-
-------
-
-## Class 6: Distal regulatory elements, Part II
-
-### Banerji et al.  Cell  33:729-40 (1983) [\[pdf\]](pdfs/banerji_1983.pdf)
-_Discovery of the first enhancer of a tissue-specific eukaryotic cellular gene._
-
-1. What is the definition of an enhancer element (i.e., specific criteria)? Outline the experiments that Banerji et al. used to fulfill these criteria.
-2. Describe the experiments summarized in Figure two and Table two.
-3. How does the enhancer element they identified differ from viral enhancers such as that of SV40?
-4. What happens to this enhancer during B-cell maturation?
-
-------
-
-### Hanahan Nature 315:115-22 (1985) [\[pdf\]](pdfs/hanahan.pdf)
-_First demonstration of the activity of a cellular enhancer in vivo._
-
-1. What is an oncogene? What is hyperplasia?
-2. Describe the experimental schema, including constructs and the breeding strategy
-3. What can we conclude about cell and tissue specificity of transgene expression?
-4. What phenotypes arise from the hybrid oncogenes?
-
-------
 
 ## Class 7: Distal regulatory elements, Part III
 
@@ -188,6 +180,7 @@ _First experiments aimed at discovering the mechanism of action of enhancers._
 3. How do the authors rule-out non-specific initiation? 
 -->
 
+<!-- 
 ------
 
 ### Weintraub Proc. Natl. Acad. Sci. USA (1988) [\[pdf\]](pdfs/weintraub_1988.pdf)
@@ -241,180 +234,3 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 -->
 
-<!-- 
-
-<!--
-
-------
-
-
-------
-
-## Tutorial 2 topics
-
-1. Position effect variegation
-2. Monoallelic expression
-3. DNA methylation
-4. Alternative splicing
-5. Transcriptional rate vs. transcription initiation
-6. CTCF
-7. Splicing factors
-8. Identification of sequence-specific DNA binding proteins
-
-
-## Class 8: Insulators
-
-### Chung et al. Cell 74:505-14 (1993) [\[pdf\]](pdfs/chung.pdf)
-_Discovery of insulator elements._
-
-1. Describe the experimental paradigm. What is the significance of the colony counting assay?
-2. How do the authors test for directionality?
-3. What does figure 5 show, and what is the mechanistic significance?
-
-### Bell et al., Cell 98:387-96 (1999) [\[pdf\]](pdfs/bell_1999.pdf)
-_The protein CTCF is required for the enhancer blocking activity of vertebrate insulators._
-
-1. Describe the experimental paradigm employed by the authors
-2. How do the authors connect specifically the observed functional outcomes to CTCF protein binding
-
-------
-
-## Class 9: Transcription factors
-
-### Miller et al. EMBO J., 4:1609-1614 (1985) [\[pdf\]](pdfs/miller.pdf)
-_Discovery of the zinc finger domain._
-
-1.	What property makes TFIIIA such attractive quarry?
-2.	What do the protease digestion experiments in Figure 1 show?
-3.	How do the authors arrive with the model of Figure 4?
-4.	Explain Figure 6 and how the authors propose TFIIIA relates to a passing polymerase
-
-------
-
-### Brent and Ptashne Cell 43:729-736 (1985) [\[pdf\]](pdfs/brent_ptashne.pdf)
-_Discovery of transcription factor activation domains._
-
-1.	Describe the experimental schema
-2.	What does Table 2 show, and how is this augmented by data in Table 5?
-3.	Would a fusion protein comprising only the first 74 amino acids of GAL4 stimulate transcription?
-4.	What is the fundamental conclusion concerning the mechanism by which DNA binding factors stimulate transcription?
-
-------
-
-### Kadonaga and Tjian PNAS 83:5889-5893 (1986) [\[pdf\]](pdfs/kadonaga.pdf)
-_Purification of the first human sequence-specific DNA binding proteins._
-1.	Describe the affinity column setup and the purification schema. What is the key step that enabled very high specificity?
-2.	How did they show that the protein purified was Sp1?
-3.	How much cellular material did the experiments require?
-
-------
-
-### Bonus papers
-
-
-### Karin et al. Nature  308:513-519 (1984) [\[pdf\]](pdfs/karin.pdf)
-_This paper describes the existence of highly specialized regulatory response sequences in mammalian promoters._
-
-1. Describe the experimental paradigm used by Karin et al to isolate response elements.
-2. Could this method be used to map core promoter elements such as the TATA box?
-3. How is the loss of hormone inducibility specifically connected with binding of the glucocorticoid receptor?  
-
-
-### Desplan et al. Nature 318:630-635 (1985)
-First demonstration that homeobox-containing proteins are DNA binding factors.
-1.	What is the homeobox?
-2.	Describe the experiments in Figures 2 and 3 and the key conclusions therefrom.
-3.	What does Figure 4 show and what is its significance?
-
-
-### Reitman et al., Nature 348:749-52 (1990) [\[pdf\]](pdfs/reitman.pdf)
-_Site-independent expression of the chicken beta A-globin gene in transgenic mice._ 
-
-Questions TBD
-
-
-### Bell and Felsenfeld   Nature 405:482-5 (2000) [\[pdf\]](pdfs/bell_2000.pdf)
- _Role of insulators in genomic imprinting._
-
- 1. Describe the phenomenon of genomic imprinting and its manifestation with respect to _Igf2_
- 2. How do the authors show that CTCF is specifically responsible for the effect?
-
-
-  ### Crenshaw et al.  Cell 49:389-98 (1987) [\[pdf\]](pdfs/crenshaw.pdf)
-  _Inferring the existence of splicing factors._
-
-  1. Diagram the experimental strategy of Crenshaw et al.  What do Figure 2 and Table 1 show? 
-  2. Which normally non-expressing tissue is capable of producing both calcitonin and CGRP?  Is CGRP processed the same in all neurons?
-  3. What is the main implication of the authors' findings regarding the machinery that carries out splicing? -->
-
-
-
-<!-- 
-## Tutorial 1 topics
-_We will discuss the first tutorial assignment (due approximately two weeks from now) at the beginning of this class._ 
-
-For this assignment, please write a summary of the history and significance of one of the following topics. It should be no more than 2 pages excluding references and ideally closer to 1.5 pages. You should be able to begin with a summary paragraph that:
-
-1. Defines the topic.
-2. States how it was discovered.
-3. Notes who discovered it.
-4. Provides an *extremely brief* (1-3 sentences) synopsis of the arc of experiments that followed the initial discovery.
-5. Concludes with a statement about the overall significance of the topic (as it understood today) for the field of gene regulation. 
-
-Here's an [example](pdfs/tutorial_example.pdf) of a good tutorial.
-
-The topics:
-
-1. Heat shock
-2. The TATA box
-3. The glucocorticoid receptor
-4. Metal response elements
-5. The SV40 enhancer
-6. The interferon enhanceosome
-7. Integration of exogenous DNA into cellular genomes
-8. Position effects
-9. Locus control regions
-10. High mobility group proteins
-
-------
-
---> 
-
-
-
-<!-- 
-## Class 5: Micro RNAs
-
-### Gebert & MacRae 2019 [\[pdf\]](pdfs/gebert_macrae.pdf)
-_This is a relatively recent review on micro RNAs, just for your reference. We will not discuss this paper and there are not study questions for it, but you might find the description of the mechanism of repression useful when reading the papers below._
-
-### Lee et al. Cell 1993 [\[pdf\]](pdfs/ambros.pdf)
-
-_This is one of two papers that first described the concept of a “microRNA” Both papers came to
-very similar conclusions about how this mechanism of regulation worked._
-
-1. What is the significance/ where did the name lin-4 come from? (not in this paper- you might
-have to do some googling)
-2. How did they map lin-4 in the genome?
-3. In modern terms, what are lin-4L and lin-4S?
-
-### Wightman et al. 1993 [\[pdf\]](pdfs/ruvkin.pdf)
-_The other paper first describing microRNAs from Gary Ruvkin’s group_
-1. What parts of the discovery were described only by the Ruvkin group and which were only
-described by the Ambros group?
-2. Describe the experiments in Figures 2 & 3.
-
-### Cassidy et al. 2013 [\[pdf\]](pdfs/cassidy.pdf)
-_An extensively detailed understanding of buffering/canalization by a microRNA in Drosophila.
-This was the first to describe this type of microRNA control._
-
-1. How/why does miR-9a contribute to the binary switch in fate to SSOs (scutellar sensory organs)
-and what is the outcome if this control is altered?
-2. Explain realized heritability
-3. What is the evidence miR-9a suppresses variation caused by genomic diversity, is this
-generalizable to all microRNAs?
-4. Describe the selection scheme and the main findings in figures 4 & 5
-
-------
-
--->
