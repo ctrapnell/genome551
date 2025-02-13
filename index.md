@@ -69,7 +69,6 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
-<!-- 
 ------
 
 ## Class 3: Distal regulatory elements, Part I
@@ -118,7 +117,9 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
-## Class 3: Regulatory signals in DNA elements
+<!-- 
+
+## Class 5: Regulatory signals in DNA elements
 
 ### Pelham Cell 30:517-528 (1982) [\[pdf\]](pdfs/pelham.pdf)
 _This paper provided the first evidence of distinct, environmentally-responsive regulatory sequences in the non-coding DNA of higher eukaryotes._
@@ -140,7 +141,7 @@ _This paper describes the first large-scale empirical characterization of human 
 ------
 
 
-## Class 4: Splicing
+## Class 6: Splicing
 
 ### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
 _Discovery of RNA splicing_
