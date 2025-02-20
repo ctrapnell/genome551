@@ -117,7 +117,7 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
-<!-- 
+
 
 ## Class 5: Regulatory signals in DNA elements
 
@@ -160,7 +160,7 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 
 ------ 
 
-
+<!-- 
 
 ## Class 7: Distal regulatory elements, Part III
 
