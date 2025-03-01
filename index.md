@@ -140,7 +140,6 @@ _This paper describes the first large-scale empirical characterization of human 
 
 ------
 
-
 ## Class 6: Splicing
 
 ### Burnet et al. PNAS (1977) [\[pdf\]](pdfs/burnet.pdf)
@@ -160,8 +159,6 @@ _Demonstration that pre-mRNAs (so called hnRNAs) are the precursors for eukaryot
 
 ------ 
 
-<!-- 
-
 ## Class 7: Distal regulatory elements, Part III
 
 ### Thanos and Maniatis  Cell  83:1091-100 (1995) [\[pdf\]](pdfs/thanos_maniatis.pdf)
@@ -169,7 +166,7 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 
 1. Describe the experiments in Figsure 3 and 4 and how these led to the proposed “enhanceosome” structure.
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
-3. What experiments suggest the existence of protein-protein interactions between NFkB and other components? -->
+3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
 
 
 <!-- 
@@ -181,7 +178,6 @@ _First experiments aimed at discovering the mechanism of action of enhancers._
 3. How do the authors rule-out non-specific initiation? 
 -->
 
-<!-- 
 ------
 
 ### Weintraub Proc. Natl. Acad. Sci. USA (1988) [\[pdf\]](pdfs/weintraub_1988.pdf)
@@ -192,7 +188,6 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 3. Describe the ‘dual marker’ experiment. What is the significance of this experiment and how is it exploited?
 
 ------
-
 
 
 ## Class 8: Distal regulatory elements, Part IV
@@ -212,6 +207,7 @@ _First demonstration that the cell type-specific activity of a distal regulatory
 3. What are the general implications of the authors’ findings for the organization of genes within the genome?
 
 
+<!-- 
 
 ------
 
