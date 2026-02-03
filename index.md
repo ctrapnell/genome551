@@ -37,7 +37,7 @@ This review describes a mathematical framework for building quantitative models 
 1. How are the values of $$\Delta\epsilon_{rd}$$ shown in Figure 7 determined?
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
-
+<!-- 
 ------
 
 ## Class 2: Chromatin accessibility
@@ -166,10 +166,11 @@ _One of the first systematic descriptions of the fine structure of enhancer._
 
 1. Describe the experiments in Figsure 3 and 4 and how these led to the proposed “enhanceosome” structure.
 2. What evidence do they provide for cooperativity between the constituent regulatory elements within the enhanceosome?
-3. What experiments suggest the existence of protein-protein interactions between NFkB and other components?
+3. What experiments suggest the existence of protein-protein interactions between NFkB and other components? -->
 
 
 <!-- 
+NOT USED PAST FEW YEARS:
 ### Treisman and Maniatis Nature (1985) [\[pdf\]](pdfs/treisman_maniatis.pdf)
 _First experiments aimed at discovering the mechanism of action of enhancers._
 
@@ -178,6 +179,7 @@ _First experiments aimed at discovering the mechanism of action of enhancers._
 3. How do the authors rule-out non-specific initiation? 
 -->
 
+<!-- 
 ------
 
 ### Weintraub Proc. Natl. Acad. Sci. USA (1988) [\[pdf\]](pdfs/weintraub_1988.pdf)
@@ -224,7 +226,7 @@ _First demonstration that a transcription factor can reprogram cell fate._
 
 1.	Describe subtractive cDNA hybridization / cloning and how it is applied in their experiments
 2.	What can be concluded from the experiments shown in Figs. 2 and 3?
-3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1 
+3.	Interpret the results of the experiment shown in Fig. 4 and the outcomes in Table 1  -->
 
 <!-- 
 -->
