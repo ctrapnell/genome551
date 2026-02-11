@@ -37,7 +37,7 @@ This review describes a mathematical framework for building quantitative models 
 1. How are the values of $$\Delta\epsilon_{rd}$$ shown in Figure 7 determined?
 2. How many parameters (e.g. constants) does equation 16 depend on? How would adding or removing an additional repressor change this number?
 
-<!-- 
+
 ------
 
 ## Class 2: Chromatin accessibility
@@ -69,6 +69,7 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
+<!-- 
 ------
 
 ## Class 3: Distal regulatory elements, Part I
