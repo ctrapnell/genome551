@@ -69,7 +69,7 @@ _This paper described a technique of fundamental importance for the characteriza
 2. Is the technique dependent on the location of a protein binding site within the test sequence?
 NOTE:  We will be coming back to the kinetic analyses in Section C at a later class.
 
-<!-- 
+
 ------
 
 ## Class 3: Distal regulatory elements, Part I
@@ -118,7 +118,7 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
-
+<!-- 
 
 ## Class 5: Regulatory signals in DNA elements
 
