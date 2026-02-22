@@ -118,7 +118,6 @@ _First demonstration of the activity of a cellular enhancer in vivo._
 
 ------
 
-<!-- 
 
 ## Class 5: Regulatory signals in DNA elements
 
@@ -138,6 +137,9 @@ _This paper describes the first large-scale empirical characterization of human 
 2. Describe the enhancer-dependent transcription assay used by Myers et al to ascertain the effect of promoter point mutants.
 3. Describe the assay used by Myers et al in Figure 2
 
+
+
+<!-- 
 
 ------
 
