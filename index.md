@@ -138,9 +138,6 @@ _This paper describes the first large-scale empirical characterization of human 
 3. Describe the assay used by Myers et al in Figure 2
 
 
-
-<!-- 
-
 ------
 
 ## Class 6: Splicing
@@ -182,7 +179,7 @@ _First experiments aimed at discovering the mechanism of action of enhancers._
 3. How do the authors rule-out non-specific initiation? 
 -->
 
-<!-- 
+
 ------
 
 ### Weintraub Proc. Natl. Acad. Sci. USA (1988) [\[pdf\]](pdfs/weintraub_1988.pdf)
@@ -194,6 +191,7 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 
 ------
 
+<!-- 
 
 ## Class 8: Distal regulatory elements, Part IV
 
