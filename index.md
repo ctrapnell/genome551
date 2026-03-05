@@ -191,7 +191,6 @@ _A seminal paper providing an elegant unifying model for the phenomenology of ci
 
 ------
 
-<!-- 
 
 ## Class 8: Distal regulatory elements, Part IV
 
